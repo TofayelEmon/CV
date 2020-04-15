@@ -1,0 +1,50 @@
+body{
+margin-left:20px;
+}
+.div1 {
+     margin:1% auto;
+    width: 50%;
+}
+.name {
+    margin-bottom: 0px;
+}
+.designation {
+    margin-bottom: 7px;
+    margin-top: 0px;
+}
+.designation a {
+    text-decoration: none;
+    color: black;
+
+}
+.designation a:hover {
+    color: blue;
+}
+.hr1 {
+    border: 1.5px solid grey;
+    margin-top: 0px;
+}
+.about {
+    margin-bottom: 0px;
+    margin-left: 90px;
+}
+.education {
+   margin-bottom: 0px;
+    margin-left: 90px; 
+}
+
+.tableDiv {
+    position: absolute;
+    top: 7%;
+}
+
+.cv {
+    color: dimgrey;
+    position: absolute;
+    top: 105%;
+    left: 40%;
+    font-size: 120%;
+}
+.cv:hover {
+    background-color: darkred;
+}
